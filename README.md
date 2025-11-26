@@ -1,4 +1,4 @@
-How 2 Download and Use the GiftTaxChecker
+**Installation**
 
 1. Go to the GitHub page where the project is located.
 
