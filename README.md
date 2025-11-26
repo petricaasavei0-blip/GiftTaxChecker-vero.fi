@@ -9,7 +9,7 @@ https://www.vero.fi/en/individuals/property/gifts/
 
 
 
-## Installation
+## How2Use
 
 1. Go to the GitHub page and click the green Code button.
 
