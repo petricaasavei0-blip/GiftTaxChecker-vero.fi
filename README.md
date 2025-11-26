@@ -2,7 +2,7 @@
 
 A program that calculates relatives gift tax from vero.fi tax brackets.
 
-https://www.vero.fi/en/individuals/property/gifts/
+https://www.vero.fi/en/individuals/property/gifts/](https://www.vero.fi/en/individuals/property/gifts/gift-tax-calculator/
 
 
 
