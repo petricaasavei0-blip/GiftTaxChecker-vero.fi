@@ -1,4 +1,4 @@
-How 2 Download and Use the Gift Tax Checker
+How 2 Download and Use the GiftTaxChecker
 
 1. Go to the GitHub page where the project is located.
 
@@ -8,24 +8,27 @@ How 2 Download and Use the Gift Tax Checker
 
 4. When the file finishes downloading, unzip it by right-clicking and selecting Extract All.
 
-5. Open the unzipped folder. Inside you will see a file named GiftTaxChecker.java.
+5. Open the unzipped folder. Inside you will see a file named GiftTaxChecker.bat.
 
-6. Make sure you have Java installed on your computer. If you do not have it, download it from the official Java website and install it.
+6. Make sure you have Java installed on your computer. If you do not have it, download it from here : https://adoptium.net/download?link=https%3A%2F%2Fgithub.com%2Fadoptium%2Ftemurin11-binaries%2Freleases%2Fdownload%2Fjdk-11.0.29%252B7%2FOpenJDK11U-jdk_x64_windows_hotspot_11.0.29_7.msi&vendor=Adoptium
 
-7. Open Command Prompt on Windows or Terminal on Mac or Linux.
+After installing Java, return to the folder you unzipped earlier.
 
-8. Use the cd command to move into the folder where GiftTaxChecker.java is located. Example:
-cd Downloads/GiftTaxChecker
+Inside the folder, find the file named GiftTaxChecker.bat.
 
-9. Compile the program by typing:
-javac GiftTaxChecker.java
+Double-click the GiftTaxChecker.bat file. This will automatically run the Gift Tax Checker without needing to use Command Prompt.
 
-10. Run the program by typing:
-java GiftTaxChecker
-
-11. The program will start and ask you to enter the password. Type:
+The program will open in a black window. It will first ask you to enter a password. Type:
 First
+and press Enter.
 
-12. Then it will ask whether the gift is for close relatives or distant relatives. Type A for close relatives or B for distant relatives.
+Next, the program will ask if the gift is for close relatives or distant relatives. Type:
+A for close relatives
+B for distant relatives
+and press Enter.
 
-13. Finally, type the value of the gift when asked. The program will then show the amount of tax you need to pay or tell you that there is no tax.
+Then the program will ask for the value of the gift. Type the amount as a number and press Enter.
+
+The program will then calculate and display the amount of gift tax you need to pay. If no tax applies, it will tell you that there is no tax.
+
+When you are finished, you can simply close the window.
