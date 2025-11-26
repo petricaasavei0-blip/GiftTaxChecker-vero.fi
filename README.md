@@ -1,6 +1,6 @@
 # GiftTaxChecker-vero.fi
 
-A program that calculates gift tax from vero.fi relatives.
+A program that calculates relatives gift tax from vero.fi tax brackets.
 
 https://www.vero.fi/en/individuals/property/gifts/
 
