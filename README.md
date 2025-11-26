@@ -16,7 +16,7 @@ After installing Java, return to the folder you unzipped earlier.
 
 7. Inside the folder, find the file named GiftTaxChecker.bat.
 
-8. Double-click the GiftTaxChecker.bat file. This will automatically run the Gift Tax Checker without needing to use Command Prompt.
+8. Double-click the GiftTaxChecker.bat file. This will automatically run the Gift Tax Checker.
 
 9. The program will open in a black window. It will first ask you to enter a password. Type:
 First
